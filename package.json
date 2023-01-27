@@ -1,5 +1,5 @@
 {
-  "name": "@enso-ui/clipboard",
+  "name": "@cgdsoftware/clipboard",
   "version": "2.0.11",
   "description": "Simple vue clipboard copy",
   "main": "index.js",
