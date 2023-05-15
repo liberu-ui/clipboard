@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/clipboard",
+  "name": "@liberu-ui/clipboard",
   "version": "2.0.11",
   "description": "Simple vue clipboard copy",
   "main": "index.js",
