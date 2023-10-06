@@ -1,7 +1,7 @@
 # Clipboard
 
-[![License](https://poser.pugx.org/enso-ui/clipboard/license)](https://packagist.org/packages/enso-ui/clipboard)
-[![Latest Stable Version](https://poser.pugx.org/enso-ui/clipboard/version)](https://packagist.org/packages/enso-ui/clipboard)
+[![License](https://poser.pugx.org/liberu-ui/clipboard/license)](https://packagist.org/packages/liberu-ui/clipboard)
+[![Latest Stable Version](https://poser.pugx.org/liberu-ui/clipboard/version)](https://packagist.org/packages/liberu-ui/clipboard)
 
 Element Resize Detector
 
